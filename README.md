@@ -12,4 +12,4 @@ The App will tell you to make your Master Password if you didn't , otherwise it 
 
 ## Note:
 I built this app when I was a First Year Student at FCAI - CU.
-I have imporved since then.
+I have improved since then.
